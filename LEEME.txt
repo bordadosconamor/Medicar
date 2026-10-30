@@ -1,0 +1,20 @@
+MEDICAR - Sitio web institucional (primera versión)
+====================================================
+Contenido:
+- index.html: página principal
+- styles.css: diseño adaptable a escritorio, tabletas y móviles
+- script.js: menú móvil y año automático
+- assets/: logo institucional e imágenes
+
+Cómo visualizar:
+1. Descomprima el ZIP.
+2. Abra index.html en Chrome, Edge o Firefox.
+3. Para publicar, cargue el contenido completo de la carpeta en el hosting/dominio.
+
+Pendiente de validación antes de publicar:
+- Confirmar dirección física exacta que se mostrará al público.
+- Confirmar servicios y modalidades habilitadas para describirlas con precisión.
+- Reemplazar las imágenes ilustrativas de tarjetas/equipo por fotografías autorizadas de MEDICAR, si se desea.
+- Verificar que el correo esté escrito exactamente como la institución lo utiliza: Medicaradmisnitracion@gmail.com.
+- Configurar formulario real de citas solo cuando se defina el canal y tratamiento seguro de datos personales.
+NIT publicado conforme a instrucción: 901.274.992 (sin dígito de verificación).
